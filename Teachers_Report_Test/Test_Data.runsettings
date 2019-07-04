@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+
+  <TestRunParameters>
+    <Parameter name="input_file_name1" value="C:\Users\OChernovolyk\source\repos\Teachers_Reports\Teachers_Reports\bin\Debug\subject1"/>
+    <Parameter name="input_file_name2" value="C:\Users\OChernovolyk\source\repos\Teachers_Reports\Teachers_Reports\bin\Debug\subject2"/>
+    <Parameter name="output_file_name" value="C:\Users\OChernovolyk\source\repos\Teachers_Reports\Teachers_Reports\bin\Debug\final.txt" />
+    <Parameter name="input_test_file_name1" value="C:\Users\OChernovolyk\source\repos\Teachers_Reports\Teachers_Report_Test\bin\Debug\Test1.txt"/>
+    <Parameter name="input_test_file_name2" value="C:\Users\OChernovolyk\source\repos\Teachers_Reports\Teachers_Report_Test\bin\Debug\Test2.txt" />
+    <Parameter name="output_test_file_name" value="C:\Users\OChernovolyk\source\repos\Teachers_Reports\Teachers_Report_Test\bin\Debug\final_test.txt" />
+
+  </TestRunParameters>
+
+</RunSettings>
